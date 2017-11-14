@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "vue": "^2.5.2",
-    "vue-event-calendar-ext": "^1.0.1"
+    "vue-event-calendar-ext": "^1.0.6"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
